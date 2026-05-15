@@ -1,4 +1,4 @@
-# 🎓 AttendX — Student Attendance Management System
+# 🎓 AbsenDulu — Student Attendance Management System
 
 A complete Java Swing desktop application for managing student attendance,
 built for NetBeans IDE with MySQL (XAMPP) backend.
